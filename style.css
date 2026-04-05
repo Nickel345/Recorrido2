@@ -1,0 +1,21 @@
+#pMain{
+    background-image: url("Assets/bogota.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.mainP{
+    background-color: rgb(255, 173, 10);
+    width: 50%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 25%;
+}
+
+.mHeader{
+    background-color: rgb(221, 107, 36);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
